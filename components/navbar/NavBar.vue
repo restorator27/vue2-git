@@ -32,6 +32,9 @@
                 <li>
                     <nuxt-link to="/simplevue" active-class="active">Simple Vue</nuxt-link>
                 </li>
+                <li>
+                    <nuxt-link to="#" active-class="active">Empty link</nuxt-link>
+                </li>
             </ul>
         </div>
     </nav>
