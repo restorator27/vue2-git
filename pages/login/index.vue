@@ -1,7 +1,7 @@
 <template>
     <section>
         <h2 v-if="$route.query.message">
-            Need Login First
+            Need Login First please
         </h2>
         <form @submit.prevent="onSubmit">
             <div>
