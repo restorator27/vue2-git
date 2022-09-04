@@ -2,6 +2,7 @@
     <div>
         <NavBar/>
         <nuxt/> 
+        <p>hell</p>
     </div>
 </template>
 
